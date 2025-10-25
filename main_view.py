@@ -123,11 +123,11 @@ def main():
             <div class="card">
                 <h3>Encuetra tu clavero</h3>
                 <p>
-                    En este apartado podras introducir un clavero y te dará una solución de entre las que había con anterioridad.
+                    En este apartado podras introducir los datos del problema y te generará una clavero adecuado según el caso.
                 </p>
             </div>
         """, unsafe_allow_html=True)
-        if st.button("Explore encuetra tu clavero", key="b1"):
+        if st.button("Ver encuetra tu clavero", key="b1"):
             st.session_state.page = "ClaveroGenerador"
             # In a real app, you would use st.switch_page() or similar logic
             # st.toast is not available in all Streamlit versions; use st.info instead
@@ -138,7 +138,7 @@ def main():
             <div class="card">
                 <h3>Averías</h3>
                 <p>
-                    Cuando un operario tenga un problema aquí podra buscar alguna solución que le ayude a resolverlo.
+                    Cuando un operario tenga un problema aquí podra buscar alguna solución con Inteligencia Artificial que le ayude a resolverlo.
                 </p>
             </div>
         """, unsafe_allow_html=True)
@@ -150,7 +150,7 @@ def main():
             <div class="card">
                 <h3>Buscar averías por modelo</h3>
                 <p>
-                    Aquí podrás buscar averías específicas introduciendo el modelo del tren.
+                    Aquí podrás buscar averías específicas pasadas introduciendo el modelo del tren.
                 </p>
             </div>
         """, unsafe_allow_html=True)
