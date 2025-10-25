@@ -9,7 +9,7 @@ COL_FECHA = "Fecha"
 COL_ORDEN = "Orden de trabajo"
 COL_AVARIA = "Descripción avería"
 COL_REPAR = "Descripción reparación"
-
+COL_COMMENT = "Comentarios"
 
 def _load_css():
     """Small CSS for the table header."""
@@ -44,16 +44,30 @@ def render_table_for_model(primary: Optional[str] = None, secondary: Optional[st
 
     _load_css()
 
-    title = f"{secondary}-{primary}"
-    st.markdown(
-        f"""
-        <div class="header">
-            <h1>{title}</h1>
-            <p>Resultados del modelo {primary} con clavero {secondary}</p>
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
+    if(primary == "--"):
+        title = f"{secondary}"
+        st.markdown(
+            
+            f"""
+            <div class="header">
+                <h1>{title}</h1>
+                <p>Resultados del  clavero {secondary} sin modelo</p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
+    else:
+        title = f"{secondary}-{primary}"
+        st.markdown(
+            
+            f"""
+            <div class="header">
+                <h1>{title}</h1>
+                <p>Resultados del modelo {primary} con clavero {secondary}</p>
+            </div>
+            """,
+            unsafe_allow_html=True,
+        )
 
     # Load real rows from the data layer using give_work(clavero)
     try:
@@ -61,12 +75,12 @@ def render_table_for_model(primary: Optional[str] = None, secondary: Optional[st
         # give_work returns a list of rows [fecha_creacion, descripcion_ot, descripcion_averia, descripcion_reparacion]
         if not works:
             st.info("No se encontraron órdenes de trabajo para la selección proporcionada.")
-            df = pd.DataFrame(columns=[COL_FECHA, COL_ORDEN, COL_AVARIA, COL_REPAR])
+            df = pd.DataFrame(columns=[COL_FECHA, COL_ORDEN, COL_AVARIA, COL_REPAR, COL_COMMENT])
         else:
-            df = pd.DataFrame(works, columns=[COL_FECHA, COL_ORDEN, COL_AVARIA, COL_REPAR])
+            df = pd.DataFrame(works, columns=[COL_FECHA, COL_ORDEN, COL_AVARIA, COL_REPAR, COL_COMMENT])
     except Exception as exc:
         st.error(f"Error al cargar datos: {exc}")
-        df = pd.DataFrame(columns=[COL_FECHA, COL_ORDEN, COL_AVARIA, COL_REPAR])
+        df = pd.DataFrame(columns=[COL_FECHA, COL_ORDEN, COL_AVARIA, COL_REPAR, COL_COMMENT])
 
     st.dataframe(df, use_container_width=True)
 
