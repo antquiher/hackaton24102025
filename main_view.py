@@ -27,21 +27,22 @@ def load_css():
 
             /* --- Custom Header --- */
             .header {
-                padding: 2rem 1rem;
-                background-color: #FFFFFF;
-                border-bottom: 2px solid #E0E0E0;
-                text-align: center;
-                margin-bottom: 2rem;
+                    padding: 1.5rem 1rem;
+                    background-color: #FFFFFF;
+                    border-bottom: 2px solid #E0E0E0;
+                    text-align: center;
+                    margin-bottom: 2rem;
             }
             .header h1 {
                 color: #C62828; /* Primary deep red */
                 font-weight: 700;
-                margin: 0;
+                margin: 1rem 0 0.5rem 0;
+                font-size: 1.6rem;
             }
             .header p {
                 color: #555555;
-                font-size: 1.25rem;
-                margin-top: 0.5rem;
+                font-size: 1.05rem;
+                margin: 0.5rem 0 0 0;
             }
 
             /* --- Option Cards --- */
@@ -104,9 +105,11 @@ def main():
     # Load custom CSS
     load_css()
 
-    # --- Custom Header ---
-    st.markdown("""
+    # --- Custom Header with company logo above the title ---
+    logo_url = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Logo_CAF.svg/330px-Logo_CAF.svg.png"
+    st.markdown(f"""
         <div class="header">
+            <img src="{logo_url}" alt="CAF logo" style="height:80px; display:block; margin: 0 auto 10px auto;" />
             <h1>Hackaton 25/10/2025</h1>
             <p>Problemas y soluciones de trenes</p>
         </div>
@@ -124,11 +127,11 @@ def main():
                 </p>
             </div>
         """, unsafe_allow_html=True)
-        if st.button("Explore Encuetra tu clave", key="b1"):
-            st.session_state.page = "Encuetra tu clave"
+        if st.button("Explore Encuetra tu clavero", key="b1"):
+            st.session_state.page = "Encuetra tu clavero"
             # In a real app, you would use st.switch_page() or similar logic
             # st.toast is not available in all Streamlit versions; use st.info instead
-            st.info("Navigating to Encuetra tu clave...")
+            
 
     with col2:
         st.markdown("""
@@ -141,7 +144,6 @@ def main():
         """, unsafe_allow_html=True)
         if st.button("Discover Servicio de averías", key="b2"):
             st.session_state.page = "Averías"
-            st.info("Navigating to Servicio de averías...")
 
     with col3:
         st.markdown("""
@@ -154,7 +156,6 @@ def main():
         """, unsafe_allow_html=True)
         if st.button("View Averias por modelo", key="b3"):
             st.session_state.page = "Modelo"
-            st.info("Navigating to Averías por modelo...")
 
     # Display the selected "page" for demonstration or render the modelo_form view
     if "page" in st.session_state:
