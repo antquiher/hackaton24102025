@@ -5,8 +5,8 @@ from logica.modelo import get_models, give_claveros
 
 
 # Small constants to avoid duplicate-literal linter warnings
-PRIMARY_PLACEHOLDER = "📋-- Selecciona modelo principal --"
-SECONDARY_PLACEHOLDER = "📋-- Selecciona subtipo/modelo secundario --"
+PRIMARY_PLACEHOLDER = "Seleccione..."
+SECONDARY_PLACEHOLDER = "Seleccione..."
 COLOR_PRIMARY = "#C62828"
 COLOR_PRIMARY_DARK = "#B71C1C"
 
@@ -76,16 +76,14 @@ def render_model_form() -> None:
     st.markdown(
         """
         <div class="header">
-            <h1>🛠️ Selección de Modelos</h1>
-            <p>📋Selecciona un modelo principal y un subtipo para continuar.</p>
+            <h1>🛠️ Selección de Averías por Modelos</h1>
         </div>
         """,
         unsafe_allow_html=True,
     )
 
     with st.container():
-        st.markdown('<div class="card">', unsafe_allow_html=True)
-
+        st.subheader("📋 Paso 1: Seleccione el modelo principal")
         # Obtain primary models from data layer
         try:
             models_set = get_models()
@@ -119,13 +117,14 @@ def render_model_form() -> None:
                 display_to_clavero = {f"Submodelo {i}": f"SUB{i}" for i in range(1, 11)}
                 secondary_models_display = list(display_to_clavero.keys())
 
+            st.markdown("---")
+            st.subheader("📋 Paso 2: Selecciona clavero")
+
             selected_secondary_display = st.selectbox(
                 "Modelo secundario",
                 [SECONDARY_PLACEHOLDER] + secondary_models_display,
                 key="secondary_model",
             )
-        else:
-            st.info("📋Selecciona primero un modelo principal para habilitar el segundo desplegable.")
 
         st.markdown('</div>', unsafe_allow_html=True)
 
@@ -139,9 +138,9 @@ def render_model_form() -> None:
     _, col2, _ = st.columns([1, 2, 1])
     with col2:
         if not can_continue:
-            st.button("Siguiente", key="next_disabled", disabled=True)
+            st.button("🛠️ Continuar", key="next_disabled", disabled=True, use_container_width=True)
         else:
-            if st.button("Siguiente", key="next"):
+            if st.button("🛠️ Continuar", key="next", use_container_width=True):
                 # Persist selections for the results view
                 st.session_state["selected_primary"] = primary_choice
                 # Resolve the clavero code from display_to_clavero when possible

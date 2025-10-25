@@ -50,7 +50,7 @@ def render_table_for_model(primary: Optional[str] = None, secondary: Optional[st
             
             f"""
             <div class="header">
-                <h1>{title}</h1>
+                <h1>➡️ {title}</h1>
                 <p>Resultados del  clavero {secondary} sin modelo</p>
             </div>
             """,
@@ -62,7 +62,7 @@ def render_table_for_model(primary: Optional[str] = None, secondary: Optional[st
             
             f"""
             <div class="header">
-                <h1>{title}</h1>
+                <h1>➡️ {title}</h1>
                 <p>Resultados del modelo {primary} con clavero {secondary}</p>
             </div>
             """,
@@ -84,7 +84,7 @@ def render_table_for_model(primary: Optional[str] = None, secondary: Optional[st
 
     st.dataframe(df, use_container_width=True)
 
-    if st.button("Volver"):
+    if st.button("⏮️ Volver", use_container_width=True):
         if "page" in st.session_state:
             st.session_state.pop("page", None)
         # Return to allow the app to re-run and show previous view

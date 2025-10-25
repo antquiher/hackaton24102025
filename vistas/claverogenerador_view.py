@@ -33,8 +33,7 @@ def cargar_diccionario_view():
 
 def render_claverogenerador():
     """Renderiza la vista del generador de claveros (sin set_page_config)."""
-    st.markdown("<h1 style='text-align: center;'>🛠️ Generador de Claveros de Frenos</h1>", unsafe_allow_html=True)
-    st.markdown("---")
+    st.markdown("<div class='header'> <h1 style='text-align: center;'>🛠️ Generador de Claveros de Frenos</h1> </div>", unsafe_allow_html=True)
 
     df = cargar_datos_view()
     if df is None:
