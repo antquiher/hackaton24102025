@@ -135,7 +135,7 @@ def render_claverogenerador():
                 descripcion_col = actuaciones.columns[3] if len(actuaciones.columns) > 3 else actuaciones.columns[1]
                 actuaciones_validas = actuaciones[actuaciones[descripcion_col].notna() & (actuaciones[descripcion_col].astype(str).str.strip() != '')]
                 if actuaciones_validas.empty:
-                    st.info('<div>ℹ️ No existe actuación preexistente para este clavero.')
+                    st.info('ℹ️ No existe actuación preexistente para este clavero.')
                 else:
                     st.markdown('### 📋 Seleccione la actuación realizada:')
                     opciones_map = {}
