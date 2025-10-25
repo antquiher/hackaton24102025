@@ -136,13 +136,13 @@ def main():
     with col2:
         st.markdown("""
             <div class="card">
-                <h3>Averías</h3>
+                <h3>Averías - IA</h3>
                 <p>
                     Cuando un operario tenga un problema aquí podra buscar alguna solución con Inteligencia Artificial que le ayude a resolverlo.
                 </p>
             </div>
         """, unsafe_allow_html=True)
-        if st.button("Ver servicio de averías", key="b2"):
+        if st.link_button("Ver servicio de averías", "http://172.25.15.152:8503/"):
             st.session_state.page = "Averías"
 
     with col3:
@@ -168,9 +168,6 @@ def main():
         elif st.session_state.page == "ClaveroGenerador":
             # Render the claverogenerador view in-place
             claverogenerador_view.render_claverogenerador()
-        else:
-            st.divider()
-            st.subheader(f"Demo: You are now on the {st.session_state.page} page.")
 
 if __name__ == "__main__":
     main()
