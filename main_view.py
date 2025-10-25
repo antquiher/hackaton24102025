@@ -1,6 +1,7 @@
 import streamlit as st
 import vistas.modelo_form as modelo_form
 import vistas.tabla_averias_modelo as tabla_averias_modelo
+import vistas.claverogenerador_view as claverogenerador_view
 
 def load_css():
     """Injects custom CSS to style the Streamlit app like a corporate landing page."""
@@ -127,7 +128,7 @@ def main():
             </div>
         """, unsafe_allow_html=True)
         if st.button("Explore encuetra tu clavero", key="b1"):
-            st.session_state.page = "Encuetra tu clavero"
+            st.session_state.page = "ClaveroGenerador"
             # In a real app, you would use st.switch_page() or similar logic
             # st.toast is not available in all Streamlit versions; use st.info instead
             
@@ -164,6 +165,9 @@ def main():
         elif st.session_state.page == "TablaModelo":
             # Render the example results table for the selected model
             tabla_averias_modelo.render_table_for_model()
+        elif st.session_state.page == "ClaveroGenerador":
+            # Render the claverogenerador view in-place
+            claverogenerador_view.render_claverogenerador()
         else:
             st.divider()
             st.subheader(f"Demo: You are now on the {st.session_state.page} page.")

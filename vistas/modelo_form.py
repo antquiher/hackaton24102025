@@ -5,8 +5,8 @@ from logica.modelo import get_models, give_claveros
 
 
 # Small constants to avoid duplicate-literal linter warnings
-PRIMARY_PLACEHOLDER = "-- Selecciona modelo principal --"
-SECONDARY_PLACEHOLDER = "-- Selecciona subtipo/modelo secundario --"
+PRIMARY_PLACEHOLDER = "📋-- Selecciona modelo principal --"
+SECONDARY_PLACEHOLDER = "📋-- Selecciona subtipo/modelo secundario --"
 COLOR_PRIMARY = "#C62828"
 COLOR_PRIMARY_DARK = "#B71C1C"
 
@@ -76,8 +76,8 @@ def render_model_form() -> None:
     st.markdown(
         """
         <div class="header">
-            <h1>Selección de Modelos</h1>
-            <p>Selecciona un modelo principal y un subtipo para continuar.</p>
+            <h1>🛠️ Selección de Modelos</h1>
+            <p>📋Selecciona un modelo principal y un subtipo para continuar.</p>
         </div>
         """,
         unsafe_allow_html=True,
@@ -125,7 +125,7 @@ def render_model_form() -> None:
                 key="secondary_model",
             )
         else:
-            st.info("Selecciona primero un modelo principal para habilitar el segundo desplegable.")
+            st.info("📋Selecciona primero un modelo principal para habilitar el segundo desplegable.")
 
         st.markdown('</div>', unsafe_allow_html=True)
 
