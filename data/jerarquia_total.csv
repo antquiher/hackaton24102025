@@ -1,206 +1,200 @@
-clavero,componente,nivel,nivel1,componente_nivel1,nivel2,componente_nivel2,componente_concatenado,componente_total
-FRE,Equipo de freno,0,,,,,Equipo de freno,Equipo de freno
-FRE0101,Panel de control de freno directo,2,FRE01,Paneles,,,Panel de control de freno directo de Paneles,Panel de control de freno directo de Paneles
-FRE010101,    Toma manométrica,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Toma manométrica de Paneles de Panel de control de freno directo,    Toma manométrica de Paneles de Panel de control de freno directo
-FRE010102,    Llave de aislamiento,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Llave de aislamiento de Paneles de Panel de control de freno directo,    Llave de aislamiento de Paneles de Panel de control de freno directo
-FRE010103,    Valvula limitadora en función de la carga,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Valvula limitadora en función de la carga de Paneles de Panel de control de freno directo,    Valvula limitadora en función de la carga de Paneles de Panel de control de freno directo
-FRE010104,    Electroválvula,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Electroválvula de Paneles de Panel de control de freno directo,    Electroválvula de Paneles de Panel de control de freno directo
-FRE010105,    Presostato,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Presostato de Paneles de Panel de control de freno directo,    Presostato de Paneles de Panel de control de freno directo
-FRE010106,    Filtro de partículas,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Filtro de partículas de Paneles de Panel de control de freno directo,    Filtro de partículas de Paneles de Panel de control de freno directo
-FRE010107,    Depósito Auxiliar,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Depósito Auxiliar de Paneles de Panel de control de freno directo,    Depósito Auxiliar de Paneles de Panel de control de freno directo
-FRE010108,    Válvula Relé,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Válvula Relé de Paneles de Panel de control de freno directo,    Válvula Relé de Paneles de Panel de control de freno directo
-FRE010109,    Transductor,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Transductor de Paneles de Panel de control de freno directo,    Transductor de Paneles de Panel de control de freno directo
-FRE010110,    Convertidor electroneumático,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Convertidor electroneumático de Paneles de Panel de control de freno directo,    Convertidor electroneumático de Paneles de Panel de control de freno directo
-FRE010111,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Aparellaje eléctrico de Paneles de Panel de control de freno directo,    Aparellaje eléctrico de Paneles de Panel de control de freno directo
-FRE010112,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Distensor / Regulador de presión de Paneles de Panel de control de freno directo,    Distensor / Regulador de presión de Paneles de Panel de control de freno directo
-FRE010113,Válvula antiretorno,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,Válvula antiretorno de Paneles de Panel de control de freno directo,Válvula antiretorno de Paneles de Panel de control de freno directo
-FRE0102,Panel de filtros,2,FRE01,Paneles,,,Panel de filtros de Paneles,Panel de filtros de Paneles
-FRE010200,    Estructura,3,FRE01,Paneles,FRE0102,Panel de filtros,    Estructura de Paneles de Panel de filtros,    Estructura de Paneles de Panel de filtros
-FRE010201,    Toma manométrica,3,FRE01,Paneles,FRE0102,Panel de filtros,    Toma manométrica de Paneles de Panel de filtros,    Toma manométrica de Paneles de Panel de filtros
-FRE010202,    Llave de aislamiento,3,FRE01,Paneles,FRE0102,Panel de filtros,    Llave de aislamiento de Paneles de Panel de filtros,    Llave de aislamiento de Paneles de Panel de filtros
-FRE010203,    Válvula antirretorno,3,FRE01,Paneles,FRE0102,Panel de filtros,    Válvula antirretorno de Paneles de Panel de filtros,    Válvula antirretorno de Paneles de Panel de filtros
-FRE010204,    Filtro de partículas,3,FRE01,Paneles,FRE0102,Panel de filtros,    Filtro de partículas de Paneles de Panel de filtros,    Filtro de partículas de Paneles de Panel de filtros
-FRE010205,    Depósito Auxiliar,3,FRE01,Paneles,FRE0102,Panel de filtros,    Depósito Auxiliar de Paneles de Panel de filtros,    Depósito Auxiliar de Paneles de Panel de filtros
-FRE010206,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0102,Panel de filtros,    Aparellaje eléctrico de Paneles de Panel de filtros,    Aparellaje eléctrico de Paneles de Panel de filtros
-FRE0103,Panel freno de estacionamiento,2,FRE01,Paneles,,,Panel freno de estacionamiento de Paneles,Panel freno de estacionamiento de Paneles
-FRE010301,    Toma manométrica,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Toma manométrica de Paneles de Panel freno de estacionamiento,    Toma manométrica de Paneles de Panel freno de estacionamiento
-FRE010302,    Llave de aislamiento,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Llave de aislamiento de Paneles de Panel freno de estacionamiento,    Llave de aislamiento de Paneles de Panel freno de estacionamiento
-FRE010303,    Válvula anticompound,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Válvula anticompound de Paneles de Panel freno de estacionamiento,    Válvula anticompound de Paneles de Panel freno de estacionamiento
-FRE010304,    Electroválvula,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Electroválvula de Paneles de Panel freno de estacionamiento,    Electroválvula de Paneles de Panel freno de estacionamiento
-FRE010305,    Presostato,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Presostato de Paneles de Panel freno de estacionamiento,    Presostato de Paneles de Panel freno de estacionamiento
-FRE010306,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Aparellaje eléctrico de Paneles de Panel freno de estacionamiento,    Aparellaje eléctrico de Paneles de Panel freno de estacionamiento
-FRE010307,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Distensor / Regulador de presión de Paneles de Panel freno de estacionamiento,    Distensor / Regulador de presión de Paneles de Panel freno de estacionamiento
-FRE0104,Panel de suspensión neumática,2,FRE01,Paneles,,,Panel de suspensión neumática de Paneles,Panel de suspensión neumática de Paneles
-FRE010401,    Toma manométrica,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Toma manométrica de Paneles de Panel de suspensión neumática,    Toma manométrica de Paneles de Panel de suspensión neumática
-FRE010402,    Llave de aislamiento,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Llave de aislamiento de Paneles de Panel de suspensión neumática,    Llave de aislamiento de Paneles de Panel de suspensión neumática
-FRE010403,    Válvula antirretorno,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Válvula antirretorno de Paneles de Panel de suspensión neumática,    Válvula antirretorno de Paneles de Panel de suspensión neumática
-FRE010404,    Válvula de rebose,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Válvula de rebose de Paneles de Panel de suspensión neumática,    Válvula de rebose de Paneles de Panel de suspensión neumática
-FRE010405,    Depósito Auxiliar,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Depósito Auxiliar de Paneles de Panel de suspensión neumática,    Depósito Auxiliar de Paneles de Panel de suspensión neumática
-FRE010406,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Aparellaje eléctrico de Paneles de Panel de suspensión neumática,    Aparellaje eléctrico de Paneles de Panel de suspensión neumática
-FRE010407,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Distensor / Regulador de presión de Paneles de Panel de suspensión neumática,    Distensor / Regulador de presión de Paneles de Panel de suspensión neumática
-FRE0105,Panel de control de pantógrafo,2,FRE01,Paneles,,,Panel de control de pantógrafo de Paneles,Panel de control de pantógrafo de Paneles
-FRE010501,    Toma manométrica,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Toma manométrica de Paneles de Panel de control de pantógrafo,    Toma manométrica de Paneles de Panel de control de pantógrafo
-FRE010502,    Llave de aislamiento,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Llave de aislamiento de Paneles de Panel de control de pantógrafo,    Llave de aislamiento de Paneles de Panel de control de pantógrafo
-FRE010503,    Válvula antirretorno,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Válvula antirretorno de Paneles de Panel de control de pantógrafo,    Válvula antirretorno de Paneles de Panel de control de pantógrafo
-FRE010504,    Válvula de seguridad,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Válvula de seguridad de Paneles de Panel de control de pantógrafo,    Válvula de seguridad de Paneles de Panel de control de pantógrafo
-FRE010505,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Distensor / Regulador de presión de Paneles de Panel de control de pantógrafo,    Distensor / Regulador de presión de Paneles de Panel de control de pantógrafo
-FRE010506,    Electroválvula,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Electroválvula de Paneles de Panel de control de pantógrafo,    Electroválvula de Paneles de Panel de control de pantógrafo
-FRE010507,    Presostato,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Presostato de Paneles de Panel de control de pantógrafo,    Presostato de Paneles de Panel de control de pantógrafo
-FRE010508,    Filtro de partículas,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Filtro de partículas de Paneles de Panel de control de pantógrafo,    Filtro de partículas de Paneles de Panel de control de pantógrafo
-FRE010509,    Depósito Auxiliar,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Depósito Auxiliar de Paneles de Panel de control de pantógrafo,    Depósito Auxiliar de Paneles de Panel de control de pantógrafo
-FRE010510,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Aparellaje eléctrico de Paneles de Panel de control de pantógrafo,    Aparellaje eléctrico de Paneles de Panel de control de pantógrafo
-FRE0106,Panel de Auxiliares de cabina,2,FRE01,Paneles,,,Panel de Auxiliares de cabina de Paneles,Panel de Auxiliares de cabina de Paneles
-FRE010601,    Toma manométrica,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Toma manométrica de Paneles de Panel de Auxiliares de cabina,    Toma manométrica de Paneles de Panel de Auxiliares de cabina
-FRE010602,    Llave de aislamiento,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Llave de aislamiento de Paneles de Panel de Auxiliares de cabina,    Llave de aislamiento de Paneles de Panel de Auxiliares de cabina
-FRE010603,    Electroválvula,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Electroválvula de Paneles de Panel de Auxiliares de cabina,    Electroválvula de Paneles de Panel de Auxiliares de cabina
-FRE010604,    Filtro de partículas,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Filtro de partículas de Paneles de Panel de Auxiliares de cabina,    Filtro de partículas de Paneles de Panel de Auxiliares de cabina
-FRE010606,    Señalizador de freno,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Señalizador de freno de Paneles de Panel de Auxiliares de cabina,    Señalizador de freno de Paneles de Panel de Auxiliares de cabina
-FRE010607,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Aparellaje eléctrico de Paneles de Panel de Auxiliares de cabina,    Aparellaje eléctrico de Paneles de Panel de Auxiliares de cabina
-FRE010608,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Distensor / Regulador de presión de Paneles de Panel de Auxiliares de cabina,    Distensor / Regulador de presión de Paneles de Panel de Auxiliares de cabina
-FRE010609,Válvula antiretorno,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,Válvula antiretorno de Paneles de Panel de Auxiliares de cabina,Válvula antiretorno de Paneles de Panel de Auxiliares de cabina
-FRE0107,Panel Control TFA,2,FRE01,Paneles,,,Panel Control TFA de Paneles,Panel Control TFA de Paneles
-FRE010701,    Toma manométrica,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Toma manométrica de Paneles de Panel Control TFA,    Toma manométrica de Paneles de Panel Control TFA
-FRE010702,Llave de aislamiento,3,FRE01,Paneles,FRE0107,Panel Control TFA,Llave de aislamiento de Paneles de Panel Control TFA,Llave de aislamiento de Paneles de Panel Control TFA
-FRE010703,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Distensor / Regulador de presión de Paneles de Panel Control TFA,    Distensor / Regulador de presión de Paneles de Panel Control TFA
-FRE010704,    Válvula pilotada neumáticamente,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Válvula pilotada neumáticamente de Paneles de Panel Control TFA,    Válvula pilotada neumáticamente de Paneles de Panel Control TFA
-FRE010705,Convertidor electroneumatico TFA,3,FRE01,Paneles,FRE0107,Panel Control TFA,Convertidor electroneumatico TFA de Paneles de Panel Control TFA,Convertidor electroneumatico TFA de Paneles de Panel Control TFA
-FRE010706,    Electroválvula,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Electroválvula de Paneles de Panel Control TFA,    Electroválvula de Paneles de Panel Control TFA
-FRE010707,    Presostato,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Presostato de Paneles de Panel Control TFA,    Presostato de Paneles de Panel Control TFA
-FRE010708,    Filtro de partículas,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Filtro de partículas de Paneles de Panel Control TFA,    Filtro de partículas de Paneles de Panel Control TFA
-FRE010709,    Depósito Auxiliar,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Depósito Auxiliar de Paneles de Panel Control TFA,    Depósito Auxiliar de Paneles de Panel Control TFA
-FRE010710,    Válvula Relé,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Válvula Relé de Paneles de Panel Control TFA,    Válvula Relé de Paneles de Panel Control TFA
-FRE010711,    Manipulador auxilio,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Manipulador auxilio de Paneles de Panel Control TFA,    Manipulador auxilio de Paneles de Panel Control TFA
-FRE010712,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Aparellaje eléctrico de Paneles de Panel Control TFA,    Aparellaje eléctrico de Paneles de Panel Control TFA
-FRE010713,Válvula antiretorno,3,FRE01,Paneles,FRE0107,Panel Control TFA,Válvula antiretorno de Paneles de Panel Control TFA,Válvula antiretorno de Paneles de Panel Control TFA
-FRE0108,Panel SIFA,2,FRE01,Paneles,,,Panel SIFA de Paneles,Panel SIFA de Paneles
-FRE010801,    Toma manométrica,3,FRE01,Paneles,FRE0108,Panel SIFA,    Toma manométrica de Paneles de Panel SIFA,    Toma manométrica de Paneles de Panel SIFA
-FRE010802,    Llave de aislamiento,3,FRE01,Paneles,FRE0108,Panel SIFA,    Llave de aislamiento de Paneles de Panel SIFA,    Llave de aislamiento de Paneles de Panel SIFA
-FRE010804,    Válvula pilotada neumáticamente,3,FRE01,Paneles,FRE0108,Panel SIFA,    Válvula pilotada neumáticamente de Paneles de Panel SIFA,    Válvula pilotada neumáticamente de Paneles de Panel SIFA
-FRE010805,    Electroválvula,3,FRE01,Paneles,FRE0108,Panel SIFA,    Electroválvula de Paneles de Panel SIFA,    Electroválvula de Paneles de Panel SIFA
-FRE010806,    Presostato,3,FRE01,Paneles,FRE0108,Panel SIFA,    Presostato de Paneles de Panel SIFA,    Presostato de Paneles de Panel SIFA
-FRE010808,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0108,Panel SIFA,    Aparellaje eléctrico de Paneles de Panel SIFA,    Aparellaje eléctrico de Paneles de Panel SIFA
-FRE0109,Panel Distribuidor,2,FRE01,Paneles,,,Panel Distribuidor de Paneles,Panel Distribuidor de Paneles
-FRE010901,    Toma manométrica,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Toma manométrica de Paneles de Panel Distribuidor,    Toma manométrica de Paneles de Panel Distribuidor
-FRE010902,    Llave de aislamiento,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Llave de aislamiento de Paneles de Panel Distribuidor,    Llave de aislamiento de Paneles de Panel Distribuidor
-FRE010903,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Distensor / Regulador de presión de Paneles de Panel Distribuidor,    Distensor / Regulador de presión de Paneles de Panel Distribuidor
-FRE010904,    Depósito Auxiliar,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Depósito Auxiliar de Paneles de Panel Distribuidor,    Depósito Auxiliar de Paneles de Panel Distribuidor
-FRE010905,    Distribuidor,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Distribuidor de Paneles de Panel Distribuidor,    Distribuidor de Paneles de Panel Distribuidor
-FRE010906,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Aparellaje eléctrico de Paneles de Panel Distribuidor,    Aparellaje eléctrico de Paneles de Panel Distribuidor
-FRE0110,Panel Arenero,2,FRE01,Paneles,,,Panel Arenero de Paneles,Panel Arenero de Paneles
-FRE011001,    Toma manométrica,3,FRE01,Paneles,FRE0110,Panel Arenero,    Toma manométrica de Paneles de Panel Arenero,    Toma manométrica de Paneles de Panel Arenero
-FRE011002,    Llave de aislamiento,3,FRE01,Paneles,FRE0110,Panel Arenero,    Llave de aislamiento de Paneles de Panel Arenero,    Llave de aislamiento de Paneles de Panel Arenero
-FRE011003,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0110,Panel Arenero,    Distensor / Regulador de presión de Paneles de Panel Arenero,    Distensor / Regulador de presión de Paneles de Panel Arenero
-FRE011004,    Electroválvula,3,FRE01,Paneles,FRE0110,Panel Arenero,    Electroválvula de Paneles de Panel Arenero,    Electroválvula de Paneles de Panel Arenero
-FRE011005,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0110,Panel Arenero,    Aparellaje eléctrico de Paneles de Panel Arenero,    Aparellaje eléctrico de Paneles de Panel Arenero
-FRE0111,Panel Tercer carril,2,FRE01,Paneles,,,Panel Tercer carril de Paneles,Panel Tercer carril de Paneles
-FRE011101,    Toma manométrica,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Toma manométrica de Paneles de Panel Tercer carril,    Toma manométrica de Paneles de Panel Tercer carril
-FRE011102,    Llave de aislamiento,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Llave de aislamiento de Paneles de Panel Tercer carril,    Llave de aislamiento de Paneles de Panel Tercer carril
-FRE011103,    Electroválvula,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Electroválvula de Paneles de Panel Tercer carril,    Electroválvula de Paneles de Panel Tercer carril
-FRE011104,    Filtro de partículas,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Filtro de partículas de Paneles de Panel Tercer carril,    Filtro de partículas de Paneles de Panel Tercer carril
-FRE011105,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Aparellaje eléctrico de Paneles de Panel Tercer carril,    Aparellaje eléctrico de Paneles de Panel Tercer carril
-FRE011106,Válvula antirretorno,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Válvula antirretorno de Paneles de Panel Tercer carril,Válvula antirretorno de Paneles de Panel Tercer carril
-FRE011107,Válvula de Seguridad,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Válvula de Seguridad de Paneles de Panel Tercer carril,Válvula de Seguridad de Paneles de Panel Tercer carril
-FRE011108,Distensor/Regulador de presión,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Distensor/Regulador de presión de Paneles de Panel Tercer carril,Distensor/Regulador de presión de Paneles de Panel Tercer carril
-FRE011109,Presostato,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Presostato de Paneles de Panel Tercer carril,Presostato de Paneles de Panel Tercer carril
-FRE011110,Depósito auxiliar,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Depósito auxiliar de Paneles de Panel Tercer carril,Depósito auxiliar de Paneles de Panel Tercer carril
-FRE0112,Panel freno electromagnético,2,FRE01,Paneles,,,Panel freno electromagnético de Paneles,Panel freno electromagnético de Paneles
-FRE011201,    Toma manométrica,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Toma manométrica de Paneles de Panel freno electromagnético,    Toma manométrica de Paneles de Panel freno electromagnético
-FRE011202,    Llave de aislamiento,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Llave de aislamiento de Paneles de Panel freno electromagnético,    Llave de aislamiento de Paneles de Panel freno electromagnético
-FRE011203,    Electroválvula,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Electroválvula de Paneles de Panel freno electromagnético,    Electroválvula de Paneles de Panel freno electromagnético
-FRE011204,    Válvula antiretorno,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Válvula antiretorno de Paneles de Panel freno electromagnético,    Válvula antiretorno de Paneles de Panel freno electromagnético
-FRE011205,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Aparellaje eléctrico de Paneles de Panel freno electromagnético,    Aparellaje eléctrico de Paneles de Panel freno electromagnético
-FRE011206,    Presostato,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Presostato de Paneles de Panel freno electromagnético,    Presostato de Paneles de Panel freno electromagnético
-FRE011207,    Válvula pilotada neumáticamente,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Válvula pilotada neumáticamente de Paneles de Panel freno electromagnético,    Válvula pilotada neumáticamente de Paneles de Panel freno electromagnético
-FRE011208,    Depósito Auxiliar,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Depósito Auxiliar de Paneles de Panel freno electromagnético,    Depósito Auxiliar de Paneles de Panel freno electromagnético
-FRE011209,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Distensor / Regulador de presión de Paneles de Panel freno electromagnético,    Distensor / Regulador de presión de Paneles de Panel freno electromagnético
-FRE0113,Panel eje libre,2,FRE01,Paneles,,,Panel eje libre de Paneles,Panel eje libre de Paneles
-FRE011301,Conjunto panel auxiliar eje libre  ,3,FRE01,Paneles,FRE0113,Panel eje libre,Conjunto panel auxiliar eje libre   de Paneles de Panel eje libre,Conjunto panel auxiliar eje libre   de Paneles de Panel eje libre
-FRE011302,Presostato panel auxiliar,3,FRE01,Paneles,FRE0113,Panel eje libre,Presostato panel auxiliar de Paneles de Panel eje libre,Presostato panel auxiliar de Paneles de Panel eje libre
-FRE03,Freno hidráulico,1,,,,,Freno hidráulico,Freno hidráulico
+clavero,componente,nivel,nivel1,componente_nivel1,nivel2,componente_nivel2,componente_total
+FRE,Equipo de freno,0,,,,,Equipo de freno
+FRE0101,Panel de control de freno directo,2,FRE01,Paneles,,,Panel de control de freno directo de Paneles
+FRE010101,    Toma manométrica,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Toma manométrica de Panel de control de freno directo de Paneles
+FRE010102,    Llave de aislamiento,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Llave de aislamiento de Panel de control de freno directo de Paneles
+FRE010103,    Valvula limitadora en función de la carga,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Valvula limitadora en función de la carga de Panel de control de freno directo de Paneles
+FRE010104,    Electroválvula,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Electroválvula de Panel de control de freno directo de Paneles
+FRE010105,    Presostato,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Presostato de Panel de control de freno directo de Paneles
+FRE010106,    Filtro de partículas,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Filtro de partículas de Panel de control de freno directo de Paneles
+FRE010107,    Depósito Auxiliar,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Depósito Auxiliar de Panel de control de freno directo de Paneles
+FRE010108,    Válvula Relé,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Válvula Relé de Panel de control de freno directo de Paneles
+FRE010109,    Transductor,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Transductor de Panel de control de freno directo de Paneles
+FRE010110,    Convertidor electroneumático,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Convertidor electroneumático de Panel de control de freno directo de Paneles
+FRE010111,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Aparellaje eléctrico de Panel de control de freno directo de Paneles
+FRE010112,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,    Distensor / Regulador de presión de Panel de control de freno directo de Paneles
+FRE010113,Válvula antiretorno,3,FRE01,Paneles,FRE0101,Panel de control de freno directo,Válvula antiretorno de Panel de control de freno directo de Paneles
+FRE0102,Panel de filtros,2,FRE01,Paneles,,,Panel de filtros de Paneles
+FRE010200,    Estructura,3,FRE01,Paneles,FRE0102,Panel de filtros,    Estructura de Panel de filtros de Paneles
+FRE010201,    Toma manométrica,3,FRE01,Paneles,FRE0102,Panel de filtros,    Toma manométrica de Panel de filtros de Paneles
+FRE010202,    Llave de aislamiento,3,FRE01,Paneles,FRE0102,Panel de filtros,    Llave de aislamiento de Panel de filtros de Paneles
+FRE010203,    Válvula antirretorno,3,FRE01,Paneles,FRE0102,Panel de filtros,    Válvula antirretorno de Panel de filtros de Paneles
+FRE010204,    Filtro de partículas,3,FRE01,Paneles,FRE0102,Panel de filtros,    Filtro de partículas de Panel de filtros de Paneles
+FRE010205,    Depósito Auxiliar,3,FRE01,Paneles,FRE0102,Panel de filtros,    Depósito Auxiliar de Panel de filtros de Paneles
+FRE010206,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0102,Panel de filtros,    Aparellaje eléctrico de Panel de filtros de Paneles
+FRE0103,Panel freno de estacionamiento,2,FRE01,Paneles,,,Panel freno de estacionamiento de Paneles
+FRE010301,    Toma manométrica,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Toma manométrica de Panel freno de estacionamiento de Paneles
+FRE010302,    Llave de aislamiento,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Llave de aislamiento de Panel freno de estacionamiento de Paneles
+FRE010303,    Válvula anticompound,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Válvula anticompound de Panel freno de estacionamiento de Paneles
+FRE010304,    Electroválvula,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Electroválvula de Panel freno de estacionamiento de Paneles
+FRE010305,    Presostato,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Presostato de Panel freno de estacionamiento de Paneles
+FRE010306,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Aparellaje eléctrico de Panel freno de estacionamiento de Paneles
+FRE010307,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0103,Panel freno de estacionamiento,    Distensor / Regulador de presión de Panel freno de estacionamiento de Paneles
+FRE0104,Panel de suspensión neumática,2,FRE01,Paneles,,,Panel de suspensión neumática de Paneles
+FRE010401,    Toma manométrica,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Toma manométrica de Panel de suspensión neumática de Paneles
+FRE010402,    Llave de aislamiento,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Llave de aislamiento de Panel de suspensión neumática de Paneles
+FRE010403,    Válvula antirretorno,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Válvula antirretorno de Panel de suspensión neumática de Paneles
+FRE010404,    Válvula de rebose,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Válvula de rebose de Panel de suspensión neumática de Paneles
+FRE010405,    Depósito Auxiliar,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Depósito Auxiliar de Panel de suspensión neumática de Paneles
+FRE010406,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Aparellaje eléctrico de Panel de suspensión neumática de Paneles
+FRE010407,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0104,Panel de suspensión neumática,    Distensor / Regulador de presión de Panel de suspensión neumática de Paneles
+FRE0105,Panel de control de pantógrafo,2,FRE01,Paneles,,,Panel de control de pantógrafo de Paneles
+FRE010501,    Toma manométrica,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Toma manométrica de Panel de control de pantógrafo de Paneles
+FRE010502,    Llave de aislamiento,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Llave de aislamiento de Panel de control de pantógrafo de Paneles
+FRE010503,    Válvula antirretorno,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Válvula antirretorno de Panel de control de pantógrafo de Paneles
+FRE010504,    Válvula de seguridad,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Válvula de seguridad de Panel de control de pantógrafo de Paneles
+FRE010505,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Distensor / Regulador de presión de Panel de control de pantógrafo de Paneles
+FRE010506,    Electroválvula,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Electroválvula de Panel de control de pantógrafo de Paneles
+FRE010507,    Presostato,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Presostato de Panel de control de pantógrafo de Paneles
+FRE010508,    Filtro de partículas,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Filtro de partículas de Panel de control de pantógrafo de Paneles
+FRE010509,    Depósito Auxiliar,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Depósito Auxiliar de Panel de control de pantógrafo de Paneles
+FRE010510,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0105,Panel de control de pantógrafo,    Aparellaje eléctrico de Panel de control de pantógrafo de Paneles
+FRE0106,Panel de Auxiliares de cabina,2,FRE01,Paneles,,,Panel de Auxiliares de cabina de Paneles
+FRE010601,    Toma manométrica,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Toma manométrica de Panel de Auxiliares de cabina de Paneles
+FRE010602,    Llave de aislamiento,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Llave de aislamiento de Panel de Auxiliares de cabina de Paneles
+FRE010603,    Electroválvula,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Electroválvula de Panel de Auxiliares de cabina de Paneles
+FRE010604,    Filtro de partículas,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Filtro de partículas de Panel de Auxiliares de cabina de Paneles
+FRE010606,    Señalizador de freno,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Señalizador de freno de Panel de Auxiliares de cabina de Paneles
+FRE010607,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Aparellaje eléctrico de Panel de Auxiliares de cabina de Paneles
+FRE010608,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,    Distensor / Regulador de presión de Panel de Auxiliares de cabina de Paneles
+FRE010609,Válvula antiretorno,3,FRE01,Paneles,FRE0106,Panel de Auxiliares de cabina,Válvula antiretorno de Panel de Auxiliares de cabina de Paneles
+FRE0107,Panel Control TFA,2,FRE01,Paneles,,,Panel Control TFA de Paneles
+FRE010701,    Toma manométrica,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Toma manométrica de Panel Control TFA de Paneles
+FRE010702,Llave de aislamiento,3,FRE01,Paneles,FRE0107,Panel Control TFA,Llave de aislamiento de Panel Control TFA de Paneles
+FRE010703,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Distensor / Regulador de presión de Panel Control TFA de Paneles
+FRE010704,    Válvula pilotada neumáticamente,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Válvula pilotada neumáticamente de Panel Control TFA de Paneles
+FRE010705,Convertidor electroneumatico TFA,3,FRE01,Paneles,FRE0107,Panel Control TFA,Convertidor electroneumatico TFA de Panel Control TFA de Paneles
+FRE010706,    Electroválvula,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Electroválvula de Panel Control TFA de Paneles
+FRE010707,    Presostato,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Presostato de Panel Control TFA de Paneles
+FRE010708,    Filtro de partículas,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Filtro de partículas de Panel Control TFA de Paneles
+FRE010709,    Depósito Auxiliar,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Depósito Auxiliar de Panel Control TFA de Paneles
+FRE010710,    Válvula Relé,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Válvula Relé de Panel Control TFA de Paneles
+FRE010711,    Manipulador auxilio,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Manipulador auxilio de Panel Control TFA de Paneles
+FRE010712,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0107,Panel Control TFA,    Aparellaje eléctrico de Panel Control TFA de Paneles
+FRE010713,Válvula antiretorno,3,FRE01,Paneles,FRE0107,Panel Control TFA,Válvula antiretorno de Panel Control TFA de Paneles
+FRE0108,Panel SIFA,2,FRE01,Paneles,,,Panel SIFA de Paneles
+FRE010801,    Toma manométrica,3,FRE01,Paneles,FRE0108,Panel SIFA,    Toma manométrica de Panel SIFA de Paneles
+FRE010802,    Llave de aislamiento,3,FRE01,Paneles,FRE0108,Panel SIFA,    Llave de aislamiento de Panel SIFA de Paneles
+FRE010804,    Válvula pilotada neumáticamente,3,FRE01,Paneles,FRE0108,Panel SIFA,    Válvula pilotada neumáticamente de Panel SIFA de Paneles
+FRE010805,    Electroválvula,3,FRE01,Paneles,FRE0108,Panel SIFA,    Electroválvula de Panel SIFA de Paneles
+FRE010806,    Presostato,3,FRE01,Paneles,FRE0108,Panel SIFA,    Presostato de Panel SIFA de Paneles
+FRE010808,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0108,Panel SIFA,    Aparellaje eléctrico de Panel SIFA de Paneles
+FRE0109,Panel Distribuidor,2,FRE01,Paneles,,,Panel Distribuidor de Paneles
+FRE010901,    Toma manométrica,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Toma manométrica de Panel Distribuidor de Paneles
+FRE010902,    Llave de aislamiento,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Llave de aislamiento de Panel Distribuidor de Paneles
+FRE010903,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Distensor / Regulador de presión de Panel Distribuidor de Paneles
+FRE010904,    Depósito Auxiliar,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Depósito Auxiliar de Panel Distribuidor de Paneles
+FRE010905,    Distribuidor,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Distribuidor de Panel Distribuidor de Paneles
+FRE010906,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0109,Panel Distribuidor,    Aparellaje eléctrico de Panel Distribuidor de Paneles
+FRE0110,Panel Arenero,2,FRE01,Paneles,,,Panel Arenero de Paneles
+FRE011001,    Toma manométrica,3,FRE01,Paneles,FRE0110,Panel Arenero,    Toma manométrica de Panel Arenero de Paneles
+FRE011002,    Llave de aislamiento,3,FRE01,Paneles,FRE0110,Panel Arenero,    Llave de aislamiento de Panel Arenero de Paneles
+FRE011003,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0110,Panel Arenero,    Distensor / Regulador de presión de Panel Arenero de Paneles
+FRE011004,    Electroválvula,3,FRE01,Paneles,FRE0110,Panel Arenero,    Electroválvula de Panel Arenero de Paneles
+FRE011005,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0110,Panel Arenero,    Aparellaje eléctrico de Panel Arenero de Paneles
+FRE0111,Panel Tercer carril,2,FRE01,Paneles,,,Panel Tercer carril de Paneles
+FRE011101,    Toma manométrica,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Toma manométrica de Panel Tercer carril de Paneles
+FRE011102,    Llave de aislamiento,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Llave de aislamiento de Panel Tercer carril de Paneles
+FRE011103,    Electroválvula,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Electroválvula de Panel Tercer carril de Paneles
+FRE011104,    Filtro de partículas,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Filtro de partículas de Panel Tercer carril de Paneles
+FRE011105,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0111,Panel Tercer carril,    Aparellaje eléctrico de Panel Tercer carril de Paneles
+FRE011106,Válvula antirretorno,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Válvula antirretorno de Panel Tercer carril de Paneles
+FRE011107,Válvula de Seguridad,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Válvula de Seguridad de Panel Tercer carril de Paneles
+FRE011108,Distensor/Regulador de presión,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Distensor/Regulador de presión de Panel Tercer carril de Paneles
+FRE011109,Presostato,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Presostato de Panel Tercer carril de Paneles
+FRE011110,Depósito auxiliar,3,FRE01,Paneles,FRE0111,Panel Tercer carril,Depósito auxiliar de Panel Tercer carril de Paneles
+FRE0112,Panel freno electromagnético,2,FRE01,Paneles,,,Panel freno electromagnético de Paneles
+FRE011201,    Toma manométrica,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Toma manométrica de Panel freno electromagnético de Paneles
+FRE011202,    Llave de aislamiento,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Llave de aislamiento de Panel freno electromagnético de Paneles
+FRE011203,    Electroválvula,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Electroválvula de Panel freno electromagnético de Paneles
+FRE011204,    Válvula antiretorno,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Válvula antiretorno de Panel freno electromagnético de Paneles
+FRE011205,    Aparellaje eléctrico,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Aparellaje eléctrico de Panel freno electromagnético de Paneles
+FRE011206,    Presostato,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Presostato de Panel freno electromagnético de Paneles
+FRE011207,    Válvula pilotada neumáticamente,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Válvula pilotada neumáticamente de Panel freno electromagnético de Paneles
+FRE011208,    Depósito Auxiliar,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Depósito Auxiliar de Panel freno electromagnético de Paneles
+FRE011209,    Distensor / Regulador de presión,3,FRE01,Paneles,FRE0112,Panel freno electromagnético,    Distensor / Regulador de presión de Panel freno electromagnético de Paneles
+FRE0113,Panel eje libre,2,FRE01,Paneles,,,Panel eje libre de Paneles
+FRE011301,Conjunto panel auxiliar eje libre  ,3,FRE01,Paneles,FRE0113,Panel eje libre,Conjunto panel auxiliar eje libre   de Panel eje libre de Paneles
+FRE011302,Presostato panel auxiliar,3,FRE01,Paneles,FRE0113,Panel eje libre,Presostato panel auxiliar de Panel eje libre de Paneles
+FRE03,Freno hidráulico,1,,,,,Freno hidráulico
 FRE0301,"Bomba hidráulica
 HPU",2,FRE03,Freno hidráulico,,,"Bomba hidráulica
-HPU de Freno hidráulico","Bomba hidráulica
 HPU de Freno hidráulico"
 FRE030101,Bomba hidráulica,3,FRE03,Freno hidráulico,FRE0301,"Bomba hidráulica
-HPU","Bomba hidráulica de Freno hidráulico de Bomba hidráulica
-HPU","Bomba hidráulica de Freno hidráulico de Bomba hidráulica
-HPU"
+HPU","Bomba hidráulica de Bomba hidráulica
+HPU de Freno hidráulico"
 FRE030102,Presostato de seguridad,3,FRE03,Freno hidráulico,FRE0301,"Bomba hidráulica
-HPU","Presostato de seguridad de Freno hidráulico de Bomba hidráulica
-HPU","Presostato de seguridad de Freno hidráulico de Bomba hidráulica
-HPU"
+HPU","Presostato de seguridad de Bomba hidráulica
+HPU de Freno hidráulico"
 FRE030103,Válvula de regulación,3,FRE03,Freno hidráulico,FRE0301,"Bomba hidráulica
-HPU","Válvula de regulación de Freno hidráulico de Bomba hidráulica
-HPU","Válvula de regulación de Freno hidráulico de Bomba hidráulica
-HPU"
+HPU","Válvula de regulación de Bomba hidráulica
+HPU de Freno hidráulico"
 FRE030104,Aparellaje eléctrico,3,FRE03,Freno hidráulico,FRE0301,"Bomba hidráulica
-HPU","Aparellaje eléctrico de Freno hidráulico de Bomba hidráulica
-HPU","Aparellaje eléctrico de Freno hidráulico de Bomba hidráulica
-HPU"
+HPU","Aparellaje eléctrico de Bomba hidráulica
+HPU de Freno hidráulico"
 FRE030105,Control de freno hidráulico(Valvulería),3,FRE03,Freno hidráulico,FRE0301,"Bomba hidráulica
-HPU","Control de freno hidráulico(Valvulería) de Freno hidráulico de Bomba hidráulica
-HPU","Control de freno hidráulico(Valvulería) de Freno hidráulico de Bomba hidráulica
-HPU"
-FRE0302,Depósitos de aceite/acumulador,2,FRE03,Freno hidráulico,,,Depósitos de aceite/acumulador de Freno hidráulico,Depósitos de aceite/acumulador de Freno hidráulico
-FRE0303,Presostato de seguridad,2,FRE03,Freno hidráulico,,,Presostato de seguridad de Freno hidráulico,Presostato de seguridad de Freno hidráulico
-FRE0304,Válvula de regulación,2,FRE03,Freno hidráulico,,,Válvula de regulación de Freno hidráulico,Válvula de regulación de Freno hidráulico
-FRE0305,Tubería circuito de servicio,2,FRE03,Freno hidráulico,,,Tubería circuito de servicio de Freno hidráulico,Tubería circuito de servicio de Freno hidráulico
-FRE0306,Tubería circuito de asistencia,2,FRE03,Freno hidráulico,,,Tubería circuito de asistencia de Freno hidráulico,Tubería circuito de asistencia de Freno hidráulico
-FRE0307,Juntas y racores hidráulicos,2,FRE03,Freno hidráulico,,,Juntas y racores hidráulicos de Freno hidráulico,Juntas y racores hidráulicos de Freno hidráulico
-FRE0309,Aparellaje eléctrico,2,FRE03,Freno hidráulico,,,Aparellaje eléctrico de Freno hidráulico,Aparellaje eléctrico de Freno hidráulico
-FRE0310,Control de freno hidráulico(Valvulería),2,FRE03,Freno hidráulico,,,Control de freno hidráulico(Valvulería) de Freno hidráulico,Control de freno hidráulico(Valvulería) de Freno hidráulico
-FRE0311,Sensor de peso,2,FRE03,Freno hidráulico,,,Sensor de peso de Freno hidráulico,Sensor de peso de Freno hidráulico
-FRE031201,    Fuelle,3,FRE03,Freno hidráulico,,Otros,    Fuelle de Freno hidráulico de Otros,    Fuelle de Freno hidráulico de Otros
-FRE031202,    Mangas,3,FRE03,Freno hidráulico,,Otros,    Mangas de Freno hidráulico de Otros,    Mangas de Freno hidráulico de Otros
-FRE031203,    Guarniciones,3,FRE03,Freno hidráulico,,Otros,    Guarniciones de Freno hidráulico de Otros,    Guarniciones de Freno hidráulico de Otros
-FRE031204,    Timonería,3,FRE03,Freno hidráulico,,Otros,    Timonería de Freno hidráulico de Otros,    Timonería de Freno hidráulico de Otros
-FRE031205,    Cilindros sin freno de estacionamiento,3,FRE03,Freno hidráulico,,Otros,    Cilindros sin freno de estacionamiento de Freno hidráulico de Otros,    Cilindros sin freno de estacionamiento de Freno hidráulico de Otros
-FRE031206,    Cilindros con freno de estacionamiento,3,FRE03,Freno hidráulico,,Otros,    Cilindros con freno de estacionamiento de Freno hidráulico de Otros,    Cilindros con freno de estacionamiento de Freno hidráulico de Otros
-FRE031207,    Dispositivos de desbloqueo,3,FRE03,Freno hidráulico,,Otros,    Dispositivos de desbloqueo de Freno hidráulico de Otros,    Dispositivos de desbloqueo de Freno hidráulico de Otros
-FRE031208,    Cables y tiradores de desbloqueo,3,FRE03,Freno hidráulico,,Otros,    Cables y tiradores de desbloqueo de Freno hidráulico de Otros,    Cables y tiradores de desbloqueo de Freno hidráulico de Otros
-FRE04,Electroválvulas antibloqueo,1,,,,,Electroválvulas antibloqueo,Electroválvulas antibloqueo
-FRE05,Frenos especiales,1,,,,,Frenos especiales,Frenos especiales
-FRE0501,Freno EP 252,2,FRE05,Frenos especiales,,,Freno EP 252 de Frenos especiales,Freno EP 252 de Frenos especiales
-FRE0502,Conectores-Mangueras,2,FRE05,Frenos especiales,,,Conectores-Mangueras de Frenos especiales,Conectores-Mangueras de Frenos especiales
-FRE0503,Aparellaje eléctrico,2,FRE05,Frenos especiales,,,Aparellaje eléctrico de Frenos especiales,Aparellaje eléctrico de Frenos especiales
-FRE06,Freno en rueda neumático,1,,,,,Freno en rueda neumático,Freno en rueda neumático
-FRE0601,Cuerpo y sujeción bloques,2,FRE06,Freno en rueda neumático,,,Cuerpo y sujeción bloques de Freno en rueda neumático,Cuerpo y sujeción bloques de Freno en rueda neumático
-FRE0602,Mangas,2,FRE06,Freno en rueda neumático,,,Mangas de Freno en rueda neumático,Mangas de Freno en rueda neumático
-FRE0603,Zapatas,2,FRE06,Freno en rueda neumático,,,Zapatas de Freno en rueda neumático,Zapatas de Freno en rueda neumático
-FRE0604,Timonería,2,FRE06,Freno en rueda neumático,,,Timonería de Freno en rueda neumático,Timonería de Freno en rueda neumático
-FRE0605,Cilindros sin freno de estacionamiento,2,FRE06,Freno en rueda neumático,,,Cilindros sin freno de estacionamiento de Freno en rueda neumático,Cilindros sin freno de estacionamiento de Freno en rueda neumático
-FRE0606,Cilindros con freno de estacionamiento,2,FRE06,Freno en rueda neumático,,,Cilindros con freno de estacionamiento de Freno en rueda neumático,Cilindros con freno de estacionamiento de Freno en rueda neumático
-FRE0607,Dispositivos de desbloqueo,2,FRE06,Freno en rueda neumático,,,Dispositivos de desbloqueo de Freno en rueda neumático,Dispositivos de desbloqueo de Freno en rueda neumático
-FRE0608,Cables y tiradores de desbloqueo,2,FRE06,Freno en rueda neumático,,,Cables y tiradores de desbloqueo de Freno en rueda neumático,Cables y tiradores de desbloqueo de Freno en rueda neumático
-FRE07,Freno en disco neumático,1,,,,,Freno en disco neumático,Freno en disco neumático
-FRE0701,Fuelle,2,FRE07,Freno en disco neumático,,,Fuelle de Freno en disco neumático,Fuelle de Freno en disco neumático
-FRE0702,Mangas,2,FRE07,Freno en disco neumático,,,Mangas de Freno en disco neumático,Mangas de Freno en disco neumático
-FRE0703,Guarniciones,2,FRE07,Freno en disco neumático,,,Guarniciones de Freno en disco neumático,Guarniciones de Freno en disco neumático
-FRE0704,Timonería,2,FRE07,Freno en disco neumático,,,Timonería de Freno en disco neumático,Timonería de Freno en disco neumático
-FRE0705,Cilindros sin freno de estacionamiento,2,FRE07,Freno en disco neumático,,,Cilindros sin freno de estacionamiento de Freno en disco neumático,Cilindros sin freno de estacionamiento de Freno en disco neumático
-FRE0706,Cilindros con freno de estacionamiento,2,FRE07,Freno en disco neumático,,,Cilindros con freno de estacionamiento de Freno en disco neumático,Cilindros con freno de estacionamiento de Freno en disco neumático
-FRE0707,Dispositivos de desbloqueo,2,FRE07,Freno en disco neumático,,,Dispositivos de desbloqueo de Freno en disco neumático,Dispositivos de desbloqueo de Freno en disco neumático
-FRE0708,Cables y tiradores de desbloqueo,2,FRE07,Freno en disco neumático,,,Cables y tiradores de desbloqueo de Freno en disco neumático,Cables y tiradores de desbloqueo de Freno en disco neumático
-FRE08,Sistemas de freno electromagnéticos,1,,,,,Sistemas de freno electromagnéticos,Sistemas de freno electromagnéticos
-FRE0801,Patines,2,FRE08,Sistemas de freno electromagnéticos,,,Patines de Sistemas de freno electromagnéticos,Patines de Sistemas de freno electromagnéticos
-FRE0802,Elementos de suspensión,2,FRE08,Sistemas de freno electromagnéticos,,,Elementos de suspensión de Sistemas de freno electromagnéticos,Elementos de suspensión de Sistemas de freno electromagnéticos
-FRE0803,Aparellaje eléctrico,2,FRE08,Sistemas de freno electromagnéticos,,,Aparellaje eléctrico de Sistemas de freno electromagnéticos,Aparellaje eléctrico de Sistemas de freno electromagnéticos
-FRE080301,    Bobina electroimán,3,FRE08,Sistemas de freno electromagnéticos,FRE0803,Aparellaje eléctrico,    Bobina electroimán de Sistemas de freno electromagnéticos de Aparellaje eléctrico,    Bobina electroimán de Sistemas de freno electromagnéticos de Aparellaje eléctrico
-FRE080302,    Conectores y cableado,3,FRE08,Sistemas de freno electromagnéticos,FRE0803,Aparellaje eléctrico,    Conectores y cableado de Sistemas de freno electromagnéticos de Aparellaje eléctrico,    Conectores y cableado de Sistemas de freno electromagnéticos de Aparellaje eléctrico
-FRE0804,Conexiones neumáticas,2,FRE08,Sistemas de freno electromagnéticos,,,Conexiones neumáticas de Sistemas de freno electromagnéticos,Conexiones neumáticas de Sistemas de freno electromagnéticos
-FRE09,Electrónica de control de freno y antibloqueo,1,,,,,Electrónica de control de freno y antibloqueo,Electrónica de control de freno y antibloqueo
-FRE0901,Rack,2,FRE09,Electrónica de control de freno y antibloqueo,,,Rack de Electrónica de control de freno y antibloqueo,Rack de Electrónica de control de freno y antibloqueo
-FRE0902,Fuente de alimentación,2,FRE09,Electrónica de control de freno y antibloqueo,,,Fuente de alimentación de Electrónica de control de freno y antibloqueo,Fuente de alimentación de Electrónica de control de freno y antibloqueo
-FRE0903,Tarjeta CPU,2,FRE09,Electrónica de control de freno y antibloqueo,,,Tarjeta CPU de Electrónica de control de freno y antibloqueo,Tarjeta CPU de Electrónica de control de freno y antibloqueo
-FRE0904,Tarjeta I/O,2,FRE09,Electrónica de control de freno y antibloqueo,,,Tarjeta I/O de Electrónica de control de freno y antibloqueo,Tarjeta I/O de Electrónica de control de freno y antibloqueo
-FRE0905,Tarjeta Comunicaciones,2,FRE09,Electrónica de control de freno y antibloqueo,,,Tarjeta Comunicaciones de Electrónica de control de freno y antibloqueo,Tarjeta Comunicaciones de Electrónica de control de freno y antibloqueo
-FRE0906,Conectores,2,FRE09,Electrónica de control de freno y antibloqueo,,,Conectores de Electrónica de control de freno y antibloqueo,Conectores de Electrónica de control de freno y antibloqueo
-FRE10,Llaves de aislamiento ,1,,,,,Llaves de aislamiento ,Llaves de aislamiento 
-FRE11,Válvulería de suspensión secundaria,1,,,,,Válvulería de suspensión secundaria,Válvulería de suspensión secundaria
-FRE1101,Toma manométrica,2,FRE11,Válvulería de suspensión secundaria,,,Toma manométrica de Válvulería de suspensión secundaria,Toma manométrica de Válvulería de suspensión secundaria
-FRE1102,Válvula de seguridad,2,FRE11,Válvulería de suspensión secundaria,,,Válvula de seguridad de Válvulería de suspensión secundaria,Válvula de seguridad de Válvulería de suspensión secundaria
-FRE1103,Válvula de nivelación,2,FRE11,Válvulería de suspensión secundaria,,,Válvula de nivelación de Válvulería de suspensión secundaria,Válvula de nivelación de Válvulería de suspensión secundaria
-FRE1104,Válvula de presión media,2,FRE11,Válvulería de suspensión secundaria,,,Válvula de presión media de Válvulería de suspensión secundaria,Válvula de presión media de Válvulería de suspensión secundaria
-FRE1105,Válvula compensadora,2,FRE11,Válvulería de suspensión secundaria,,,Válvula compensadora de Válvulería de suspensión secundaria,Válvula compensadora de Válvulería de suspensión secundaria
-FRE1106,Varilla reguladora,2,FRE11,Válvulería de suspensión secundaria,,,Varilla reguladora de Válvulería de suspensión secundaria,Varilla reguladora de Válvulería de suspensión secundaria
-FRE12,Mangueras Flexibles,1,,,,,Mangueras Flexibles,Mangueras Flexibles
+HPU","Control de freno hidráulico(Valvulería) de Bomba hidráulica
+HPU de Freno hidráulico"
+FRE0302,Depósitos de aceite/acumulador,2,FRE03,Freno hidráulico,,,Depósitos de aceite/acumulador de Freno hidráulico
+FRE0303,Presostato de seguridad,2,FRE03,Freno hidráulico,,,Presostato de seguridad de Freno hidráulico
+FRE0304,Válvula de regulación,2,FRE03,Freno hidráulico,,,Válvula de regulación de Freno hidráulico
+FRE0305,Tubería circuito de servicio,2,FRE03,Freno hidráulico,,,Tubería circuito de servicio de Freno hidráulico
+FRE0306,Tubería circuito de asistencia,2,FRE03,Freno hidráulico,,,Tubería circuito de asistencia de Freno hidráulico
+FRE0307,Juntas y racores hidráulicos,2,FRE03,Freno hidráulico,,,Juntas y racores hidráulicos de Freno hidráulico
+FRE0309,Aparellaje eléctrico,2,FRE03,Freno hidráulico,,,Aparellaje eléctrico de Freno hidráulico
+FRE0310,Control de freno hidráulico(Valvulería),2,FRE03,Freno hidráulico,,,Control de freno hidráulico(Valvulería) de Freno hidráulico
+FRE0311,Sensor de peso,2,FRE03,Freno hidráulico,,,Sensor de peso de Freno hidráulico
+FRE031201,    Fuelle,3,FRE03,Freno hidráulico,,Otros,    Fuelle de Otros de Freno hidráulico
+FRE031202,    Mangas,3,FRE03,Freno hidráulico,,Otros,    Mangas de Otros de Freno hidráulico
+FRE031203,    Guarniciones,3,FRE03,Freno hidráulico,,Otros,    Guarniciones de Otros de Freno hidráulico
+FRE031204,    Timonería,3,FRE03,Freno hidráulico,,Otros,    Timonería de Otros de Freno hidráulico
+FRE031205,    Cilindros sin freno de estacionamiento,3,FRE03,Freno hidráulico,,Otros,    Cilindros sin freno de estacionamiento de Otros de Freno hidráulico
+FRE031206,    Cilindros con freno de estacionamiento,3,FRE03,Freno hidráulico,,Otros,    Cilindros con freno de estacionamiento de Otros de Freno hidráulico
+FRE031207,    Dispositivos de desbloqueo,3,FRE03,Freno hidráulico,,Otros,    Dispositivos de desbloqueo de Otros de Freno hidráulico
+FRE031208,    Cables y tiradores de desbloqueo,3,FRE03,Freno hidráulico,,Otros,    Cables y tiradores de desbloqueo de Otros de Freno hidráulico
+FRE04,Electroválvulas antibloqueo,1,,,,,Electroválvulas antibloqueo
+FRE05,Frenos especiales,1,,,,,Frenos especiales
+FRE0501,Freno EP 252,2,FRE05,Frenos especiales,,,Freno EP 252 de Frenos especiales
+FRE0502,Conectores-Mangueras,2,FRE05,Frenos especiales,,,Conectores-Mangueras de Frenos especiales
+FRE0503,Aparellaje eléctrico,2,FRE05,Frenos especiales,,,Aparellaje eléctrico de Frenos especiales
+FRE06,Freno en rueda neumático,1,,,,,Freno en rueda neumático
+FRE0601,Cuerpo y sujeción bloques,2,FRE06,Freno en rueda neumático,,,Cuerpo y sujeción bloques de Freno en rueda neumático
+FRE0602,Mangas,2,FRE06,Freno en rueda neumático,,,Mangas de Freno en rueda neumático
+FRE0603,Zapatas,2,FRE06,Freno en rueda neumático,,,Zapatas de Freno en rueda neumático
+FRE0604,Timonería,2,FRE06,Freno en rueda neumático,,,Timonería de Freno en rueda neumático
+FRE0605,Cilindros sin freno de estacionamiento,2,FRE06,Freno en rueda neumático,,,Cilindros sin freno de estacionamiento de Freno en rueda neumático
+FRE0606,Cilindros con freno de estacionamiento,2,FRE06,Freno en rueda neumático,,,Cilindros con freno de estacionamiento de Freno en rueda neumático
+FRE0607,Dispositivos de desbloqueo,2,FRE06,Freno en rueda neumático,,,Dispositivos de desbloqueo de Freno en rueda neumático
+FRE0608,Cables y tiradores de desbloqueo,2,FRE06,Freno en rueda neumático,,,Cables y tiradores de desbloqueo de Freno en rueda neumático
+FRE07,Freno en disco neumático,1,,,,,Freno en disco neumático
+FRE0701,Fuelle,2,FRE07,Freno en disco neumático,,,Fuelle de Freno en disco neumático
+FRE0702,Mangas,2,FRE07,Freno en disco neumático,,,Mangas de Freno en disco neumático
+FRE0703,Guarniciones,2,FRE07,Freno en disco neumático,,,Guarniciones de Freno en disco neumático
+FRE0704,Timonería,2,FRE07,Freno en disco neumático,,,Timonería de Freno en disco neumático
+FRE0705,Cilindros sin freno de estacionamiento,2,FRE07,Freno en disco neumático,,,Cilindros sin freno de estacionamiento de Freno en disco neumático
+FRE0706,Cilindros con freno de estacionamiento,2,FRE07,Freno en disco neumático,,,Cilindros con freno de estacionamiento de Freno en disco neumático
+FRE0707,Dispositivos de desbloqueo,2,FRE07,Freno en disco neumático,,,Dispositivos de desbloqueo de Freno en disco neumático
+FRE0708,Cables y tiradores de desbloqueo,2,FRE07,Freno en disco neumático,,,Cables y tiradores de desbloqueo de Freno en disco neumático
+FRE08,Sistemas de freno electromagnéticos,1,,,,,Sistemas de freno electromagnéticos
+FRE0801,Patines,2,FRE08,Sistemas de freno electromagnéticos,,,Patines de Sistemas de freno electromagnéticos
+FRE0802,Elementos de suspensión,2,FRE08,Sistemas de freno electromagnéticos,,,Elementos de suspensión de Sistemas de freno electromagnéticos
+FRE0803,Aparellaje eléctrico,2,FRE08,Sistemas de freno electromagnéticos,,,Aparellaje eléctrico de Sistemas de freno electromagnéticos
+FRE080301,    Bobina electroimán,3,FRE08,Sistemas de freno electromagnéticos,FRE0803,Aparellaje eléctrico,    Bobina electroimán de Aparellaje eléctrico de Sistemas de freno electromagnéticos
+FRE080302,    Conectores y cableado,3,FRE08,Sistemas de freno electromagnéticos,FRE0803,Aparellaje eléctrico,    Conectores y cableado de Aparellaje eléctrico de Sistemas de freno electromagnéticos
+FRE0804,Conexiones neumáticas,2,FRE08,Sistemas de freno electromagnéticos,,,Conexiones neumáticas de Sistemas de freno electromagnéticos
+FRE09,Electrónica de control de freno y antibloqueo,1,,,,,Electrónica de control de freno y antibloqueo
+FRE0901,Rack,2,FRE09,Electrónica de control de freno y antibloqueo,,,Rack de Electrónica de control de freno y antibloqueo
+FRE0902,Fuente de alimentación,2,FRE09,Electrónica de control de freno y antibloqueo,,,Fuente de alimentación de Electrónica de control de freno y antibloqueo
+FRE0903,Tarjeta CPU,2,FRE09,Electrónica de control de freno y antibloqueo,,,Tarjeta CPU de Electrónica de control de freno y antibloqueo
+FRE0904,Tarjeta I/O,2,FRE09,Electrónica de control de freno y antibloqueo,,,Tarjeta I/O de Electrónica de control de freno y antibloqueo
+FRE0905,Tarjeta Comunicaciones,2,FRE09,Electrónica de control de freno y antibloqueo,,,Tarjeta Comunicaciones de Electrónica de control de freno y antibloqueo
+FRE0906,Conectores,2,FRE09,Electrónica de control de freno y antibloqueo,,,Conectores de Electrónica de control de freno y antibloqueo
+FRE10,Llaves de aislamiento ,1,,,,,Llaves de aislamiento 
+FRE11,Válvulería de suspensión secundaria,1,,,,,Válvulería de suspensión secundaria
+FRE1101,Toma manométrica,2,FRE11,Válvulería de suspensión secundaria,,,Toma manométrica de Válvulería de suspensión secundaria
+FRE1102,Válvula de seguridad,2,FRE11,Válvulería de suspensión secundaria,,,Válvula de seguridad de Válvulería de suspensión secundaria
+FRE1103,Válvula de nivelación,2,FRE11,Válvulería de suspensión secundaria,,,Válvula de nivelación de Válvulería de suspensión secundaria
+FRE1104,Válvula de presión media,2,FRE11,Válvulería de suspensión secundaria,,,Válvula de presión media de Válvulería de suspensión secundaria
+FRE1105,Válvula compensadora,2,FRE11,Válvulería de suspensión secundaria,,,Válvula compensadora de Válvulería de suspensión secundaria
+FRE1106,Varilla reguladora,2,FRE11,Válvulería de suspensión secundaria,,,Varilla reguladora de Válvulería de suspensión secundaria
+FRE12,Mangueras Flexibles,1,,,,,Mangueras Flexibles
