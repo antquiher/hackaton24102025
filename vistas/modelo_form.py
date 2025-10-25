@@ -138,7 +138,7 @@ def render_model_form() -> None:
     _, col2, _ = st.columns([1, 2, 1])
     with col2:
         if not can_continue:
-            st.button("🛠️ Continuar", key="next_disabled", disabled=True, use_container_width=True)
+            st.button("Continuar", key="next_disabled", disabled=True, use_container_width=True)
         else:
             if st.button("🛠️ Continuar", key="next", use_container_width=True):
                 # Persist selections for the results view
