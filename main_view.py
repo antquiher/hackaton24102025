@@ -142,7 +142,7 @@ def main():
                 </p>
             </div>
         """, unsafe_allow_html=True)
-        if st.link_button("Ver servicio de averías", "http://172.25.15.152:8502/"):
+        if st.button("Ver servicio de averías", key="b2"):
             st.session_state.page = "Averías"
 
     with col3:
